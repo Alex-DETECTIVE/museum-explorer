@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /tmp/
+Disallow: /logs/
+Sitemap: https://https://alex-detective.github.io/museum-explorer/sitemap.xml
